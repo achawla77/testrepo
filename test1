@@ -1,2 +1,6 @@
 Test file 1..
+<<<<<<< HEAD
 Change in test123456789
+=======
+Change in test1
+>>>>>>> testbranch
